@@ -1,0 +1,13 @@
+# Model weights and data are not stored in the repository
+*.pt
+*.pth
+*.h5
+*.csv
+*.parquet
+data/
+
+# Python and notebook clutter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.env

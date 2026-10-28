@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+seaborn
+nltk
+contractions
+scikit-learn
+xgboost
+tensorflow
+torch
+transformers
+datasets
